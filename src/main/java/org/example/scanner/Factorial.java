@@ -18,6 +18,7 @@ public class Factorial
         {
             fact = fact * j;
         }
+
         System.out.println("Factorial of no = "+ fact);
     }
 }
