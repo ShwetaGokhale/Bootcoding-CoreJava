@@ -12,6 +12,9 @@ public class AreaOfShape
         System.out.println("Enter no = ");
         int b = obj.nextInt();
         a = b * b;
+
+
+
         System.out.println("Area Of Square = "+a);
     }
 }
