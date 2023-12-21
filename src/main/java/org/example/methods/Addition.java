@@ -9,7 +9,7 @@ public class Addition
     }
     public static void main(String[] args)
     {
-        Addition a = new Addition();
+        Addition  a = new Addition();
         int r = a.add(30 , 10);
         System.out.println(r);
     }
