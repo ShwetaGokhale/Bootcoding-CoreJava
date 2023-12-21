@@ -1,6 +1,6 @@
 package org.example.if_else;/*Write  a  program  to  calculate  square  of  number  from  2  to  100  which  is divisible  by 3  and  5*/
 
-class  Calculate
+public class  Calculate
 {
 	public  static  void  main(String  args[])
 	{
@@ -13,6 +13,9 @@ class  Calculate
 			}
 		}
 	
+	}
+
+	public void add(int i, int i1) {
 	}
 }
 

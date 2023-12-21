@@ -32,12 +32,18 @@ public class AreaOfShape
         //For Triangle
         System.out.println("Enter Base  = ");
         int base = obj.nextInt();
-
         System.out.println("Enter Height  = ");
         int height = obj.nextInt();
         int area1 = (base * height)/2;
-
         System.out.println("Area Of Triangle = " +area1);
+
+//        For Rectangle
+//        System.out.println("Enter Length = ");
+//        int length = obj.nextInt();
+//        System.out.println("Enter Height = ");
+//        int height1 = obj.nextInt();
+//        int area3 = length * height1;
+//        System.out.println("Area of Rectangle = " +area3);
     }
 }
 
