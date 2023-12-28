@@ -1,4 +1,6 @@
-package org.example.control_statements.decision_making_statement;/*Grade Calculator:
+package org.example.control_statements.decision_making_statement;
+
+/*Grade Calculator:
 Create a program that calculates the final grade for a student based on their scores in exams, assignments, and participation*/
 
 
@@ -21,7 +23,7 @@ class  GradeCalculator
 		}
 		else
 		{
-			System.out.println("Final Grade Of Student is D");
+			System.out.println("Student is fail !!!!");
 		}
 	}
 }
