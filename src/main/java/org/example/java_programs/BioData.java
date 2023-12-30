@@ -11,6 +11,6 @@ class BioData
        System.out.println("Email ID   = shwetagokhale123@gmail.com");
         System.out.println("Languages Known  = English , Hindi & Marathi");
        System.out.println("Education = MCA (Pursuing) From G.H.Raisoni College");
-       System.out.print("Batch  =2022-2024");
+       System.out.print("Batch  = 2022-2024");
     }
 }
