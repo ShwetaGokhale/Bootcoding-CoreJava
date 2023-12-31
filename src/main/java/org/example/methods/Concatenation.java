@@ -2,7 +2,7 @@ package org.example.methods;
 
 import java.util.concurrent.Callable;
 
-public class Concatenation
+public class  Concatenation
 {
 //    public String concate(String s1 , String s2)
 //    {
