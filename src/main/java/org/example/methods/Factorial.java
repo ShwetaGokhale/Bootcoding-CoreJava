@@ -16,7 +16,7 @@ public class  Factorial
     {
         Factorial f = new Factorial();
         int s = f.factorial(5);
-        System.out.println("Factorial of given no = "+s);
+        System.out.println("Factorial of  given no = "+s);
 
     }
 }
