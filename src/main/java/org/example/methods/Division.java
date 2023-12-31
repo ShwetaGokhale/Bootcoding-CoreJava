@@ -1,6 +1,6 @@
 package org.example.methods;
 
-public class Division
+public class  Division
 {
     public int divide(int b , int c)
     {
