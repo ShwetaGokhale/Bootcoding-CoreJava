@@ -5,7 +5,7 @@ public class  Substraction
     public int sub(int i , int j)
     {
         int sum = i - j;
-        System.out.println("Given Numbers = " +i+"  "+j);
+        System.out.println("Given  Numbers = " +i+"  "+j);
         return sum;
     }
     public static void main(String[] args)
