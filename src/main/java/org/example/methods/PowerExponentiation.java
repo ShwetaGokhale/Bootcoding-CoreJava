@@ -1,6 +1,6 @@
 package org.example.methods;
 
-public class PowerExponentiation
+public class  PowerExponentiation
 {
     public int power(int i)
     {
