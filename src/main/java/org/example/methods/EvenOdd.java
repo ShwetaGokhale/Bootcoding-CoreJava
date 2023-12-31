@@ -2,7 +2,7 @@ package org.example.methods;
 
 import java.util.EventObject;
 
-public class EvenOdd
+public class  EvenOdd
 {
 //    public int number(int i)
 //    {
