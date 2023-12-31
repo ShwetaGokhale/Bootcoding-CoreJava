@@ -5,7 +5,7 @@ public class  Multiplication
     public int multiply(int a , int b)
     {
         int c = a * b;
-        System.out.println("Given Numbers = " +a+"  "+b);
+        System.out.println("Given  Numbers = " +a+"  "+b);
         return c;
     }
     public static void main(String[] args)
