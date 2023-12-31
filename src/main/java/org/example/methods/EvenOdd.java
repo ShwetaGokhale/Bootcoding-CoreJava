@@ -24,7 +24,7 @@ public class  EvenOdd
 //    }
         public  void number(int i)
         {
-            System.out.println("Given no = " +i);
+            System.out.println("Given  no = " +i);
             if(i % 2 == 0)
         {
             System.out.println("Given number is even");
