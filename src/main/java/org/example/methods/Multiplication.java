@@ -1,6 +1,6 @@
 package org.example.methods;
 
-public class Multiplication
+public class  Multiplication
 {
     public int multiply(int a , int b)
     {
