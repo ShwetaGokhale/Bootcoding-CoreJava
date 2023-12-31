@@ -1,6 +1,6 @@
 package org.example.methods;
 
-public class Substraction
+public class  Substraction
 {
     public int sub(int i , int j)
     {
