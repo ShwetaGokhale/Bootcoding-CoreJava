@@ -1,6 +1,6 @@
 package org.example.methods;
 
-public class Factorial
+public class  Factorial
 {
     public int factorial(int i)
     {
