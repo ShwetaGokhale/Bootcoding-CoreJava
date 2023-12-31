@@ -2,6 +2,7 @@ package org.example.methods;
 
 public class Addition
 {
+
     public int add(int x , int y)
     {
         //int sum = x + y;
