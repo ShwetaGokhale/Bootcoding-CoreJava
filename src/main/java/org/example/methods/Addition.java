@@ -6,8 +6,8 @@ public class  Addition
     public int add(int x , int y)
     {
         //int sum = x + y;
-        //reurn sum;
-        System.out.println("Given Numbers = " +x+"  "+y);
+        //return sum;
+        System.out.println(" Given Numbers = " +x+"  "+y);
         return x + y;
     }
     public static void main(String[] args)
